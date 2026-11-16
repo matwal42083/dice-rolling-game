@@ -22,6 +22,6 @@ Open `index.html` in a web browser, or use a local development server.
 
 This project is based on the freeCodeCamp **Build a Dice Game** learning assignment:
 
-- [freeCodeCamp curriculum](https://www.freecodecamp.org/learn/full-stack-developer/lab-dice-game/build-a-dice-game)
+- [freeCodeCamp curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/review-algorithmic-thinking-by-building-a-dice-game/step-1)
 
 The project is for educational purposes and reflects my learning progress with JavaScript DOM manipulation and game logic.
